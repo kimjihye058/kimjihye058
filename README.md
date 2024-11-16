@@ -1,5 +1,5 @@
 ### Hi, there 👋
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=ffd700&height=300&section=header&text=Hi!%20I'm%20JihyeKim&fontSize=300" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=ffd700&height=300&section=header&text=Hi!%20I'm%20JihyeKim&fontSize=30" />
 
 - 👋 Hi, I’m @kimjihye058
 - 👀 I’m interested in ...
