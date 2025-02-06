@@ -6,4 +6,4 @@
 - 💞️ I’m looking to collaborate on [JSstudy](https://github.com/JS-Study-Club)
 - 📫 How to reach me s2321@e-mirim.hs.kr
 - 😄 Pronouns: Happiness
-- ⚡ Fun fact: I'm in AUSTRAILIA
+- ⚡ Fun fact: Korea is very COLD!!!!
