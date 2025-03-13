@@ -6,4 +6,4 @@
 - 💞️ I’m looking to collaborate on [JSstudy](https://github.com/JS-Study-Club)
 - 📫 How to reach me s2321@e-mirim.hs.kr
 - 😄 Pronouns: Happiness
-- ⚡ Fun fact: 개학이 일주일도 남지 않음...
+- ⚡ Fun fact: 취업하러 가볼까아~? 부앙부앙~
