@@ -1,12 +1,10 @@
-### Hi, there 👋
+### 안녕하세요! 지혜롭게 시도해보는 도전적인 개발자 김지혜입니다. 👋
+---
 
-- 👋 Hi, I’m @kimjihye058
 - 👀 I’m interested in **Front-End Developing**
-- 🌱 I’m currently learning **Flutter** and **TypeScript**
-- 💞️ I’m looking to collaborate on [JSstudy](https://github.com/JS-Study-Club)
-- ✏ My Velog page is [wisdomkim.log](https://velog.io/@wisdomkim/posts)
-- 📫 How to reach me **s2321@e-mirim.hs.kr**
-- 😄 Pronouns: Happiness
+- 🌱 I’m currently learning **React** and **Flutter**
+- 💞️ I’m working with [JSstudy](github.com/JS-Study-Club)
+- ✏ I'm writing a velog from [wisdomkim.log](velog.io/@wisdomkim)
 
 ✍️ I wrote this recently!
 
