@@ -2,7 +2,7 @@
 ---
 
 - 👀 I’m interested in **Front-End Developing**
-- 🌱 I’m currently learning **React** and **Flutter**
+- 🌱 I’m currently learning **React**
 - 💞️ I’m working with [JSstudy](github.com/JS-Study-Club)
 - ✏ I'm writing a velog from [wisdomkim.log](velog.io/@wisdomkim)
 
